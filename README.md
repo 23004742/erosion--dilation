@@ -57,17 +57,20 @@ plt.imshow(img_erode,cmap='gray')
 ## Output:
 
 ### Display the input Image
-(https://github.com/user-attachments/assets/19b77623-9ed1-4b37-a5ae-b3919586ca06)
 
+
+![WhatsApp Image 2025-05-21 at 15 26 46_5e243332](https://github.com/user-attachments/assets/72a2c2f4-d00b-4d1c-aa23-4c5e7ebe929d)
 
 
 ### Display the Eroded Image
-(https://github.com/user-attachments/assets/4450348a-95d8-4b7c-b6b8-198a07e54706)
+![WhatsApp Image 2025-05-21 at 15 26 54_f98b605a](https://github.com/user-attachments/assets/aa726ef6-c478-415d-b8f9-e7b8120936c8)
+
 
 
 ### Display the Dilated Image
 
-(https://github.com/user-attachments/assets/e6f47728-b746-49fa-8d2d-3307ff98f999)
+![WhatsApp Image 2025-05-21 at 15 27 07_abe1863c](https://github.com/user-attachments/assets/9c7e8725-32f7-4e67-99e4-8ae1ffa53c48)
+
 
 
 
