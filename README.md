@@ -21,8 +21,8 @@ Erode the image
 Dilate the Image
  
 ## Program:
-## Developed by: L yagnesh kumar reddy
-## Register number: 212223100024
+## Developed by: 
+## Register number: 
 ## PROGRAM
 ```
 
