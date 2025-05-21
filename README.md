@@ -21,8 +21,8 @@ Erode the image
 Dilate the Image
  
 ## Program:
-## Developed by: T Ajay
-## Register number: 212223230007
+## Developed by: L yagnesh kumar reddy
+## Register number: 212223100024
 ## PROGRAM
 ```
 
@@ -57,18 +57,17 @@ plt.imshow(img_erode,cmap='gray')
 ## Output:
 
 ### Display the input Image
+(https://github.com/user-attachments/assets/19b77623-9ed1-4b37-a5ae-b3919586ca06)
 
-![WhatsApp Image 2025-05-21 at 15 26 46_1296e48e](https://github.com/user-attachments/assets/12f9ee02-e7c7-448f-b4d2-08702b5b13b4)
 
 
 ### Display the Eroded Image
-
-![WhatsApp Image 2025-05-21 at 15 26 54_ebfc2ab5](https://github.com/user-attachments/assets/43f30731-d95e-424c-a515-ebd5aad91b32)
+(https://github.com/user-attachments/assets/4450348a-95d8-4b7c-b6b8-198a07e54706)
 
 
 ### Display the Dilated Image
 
-![WhatsApp Image 2025-05-21 at 15 27 07_67f455bc](https://github.com/user-attachments/assets/325fb64a-eea7-4357-8f7d-d1398dcaf18a)
+(https://github.com/user-attachments/assets/e6f47728-b746-49fa-8d2d-3307ff98f999)
 
 
 
